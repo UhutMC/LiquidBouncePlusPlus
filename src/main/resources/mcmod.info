@@ -1,13 +1,13 @@
 [
   {
-    "modid": "liquidbounce",
-    "name": "LiquidBounce",
+    "modid": "helium",
+    "name": "Helium",
     "description": "",
     "version": "${version}",
     "mcversion": "${mcversion}",
-    "url": "https://liquidbounce.net",
+    "url": "",
     "updateUrl": "",
-    "authorList": ["CCBlueX"],
+    "authorList": ["Keryzgtn"],
     "credits": "",
     "logoFile": "",
     "screenshots": [],

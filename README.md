@@ -1,15 +1,7 @@
-<img width="120" height="120" align="left" style="float: left; margin: 0 10px 0 0;" alt="lb++" src="src/main/resources/assets/minecraft/liquidbounce%2B/big.png">
+# LiquidBounce+++
 
-# LiquidBounce++                                    
-     
-A free mixin-based injection hacked-client for Minecraft 1.8.9 using Minecraft Forge.
-Based on LiquidBounce+
-
-### Good night LiquidBounce+
-LiquidBounce+ is discontinued, we hope inf will return.
-
-### Info
-[Website](https://lbplusplus.ga), [Discord](https://discord.gg/EyqcPDEBd8)
+A mixin-based injection hacked client for Minecraft 1.8.9 Forge.
+Recode of LiquidBounce++
 
 ## How to install
 1. Download [Forge 1.8.9](https://files.minecraftforge.net/net/minecraftforge/forge/index_1.8.9.html)
@@ -20,7 +12,7 @@ LiquidBounce+ is discontinued, we hope inf will return.
    - Windows: %APPDATA%\\.minecraft\\mods
    - Mac OS: ~/Library/Application Support/minecraft/mods
    - Linux: ~/.minecraft/mods
-5. Put LiquidBounce++ jar in the mods folder
+5. Put LiquidBounce+++ jar in the mods folder
 6. Run forge 1.8.9 in your minecraft launcher again
 
 ## License
@@ -41,8 +33,8 @@ this project entirely or partially for free and even commercially. However, plea
 Do the above and share your source code with everyone; just like we do.
 
 ## Setting up a Workspace
-LiquidBounce++ is using Gradle, so make sure that it is installed properly. Instructions can be found on [Gradle's website](https://gradle.org/install/).
-1. Clone the repository using `git clone https://github.com/PlusPlusMC/LiquidBouncePlusPlus`. 
+LiquidBounce+++ is using Gradle, so make sure that it is installed properly. Instructions can be found on [Gradle's website](https://gradle.org/install/).
+1. Clone the repository using `git clone https://github.com/UhutMC/LiquidPlus3`. 
 2. CD into the local repository folder.
 3. Depending on which IDE you are using execute either of the following commands:
     - For IntelliJ: `gradlew setupDevWorkspace idea genIntellijRuns build`
@@ -54,4 +46,4 @@ LiquidBounce++ is using Gradle, so make sure that it is installed properly. Inst
 
 ## Additional libraries
 ### Mixins
-Mixins can be used to modify classes at runtime before they are loaded. LiquidBounce++ is using it to inject its code into the Minecraft client. This way, we do not have to ship Mojang's copyrighted code. If you want to learn more about it, check out its [Documentation](https://docs.spongepowered.org/5.1.0/en/plugin/internals/mixins.html).
+Mixins can be used to modify classes at runtime before they are loaded. LiquidBounce+++ is using it to inject its code into the Minecraft client. This way, we do not have to ship Mojang's copyrighted code. If you want to learn more about it, check out its [Documentation](https://docs.spongepowered.org/5.1.0/en/plugin/internals/mixins.html).
